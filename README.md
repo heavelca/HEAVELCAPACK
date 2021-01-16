@@ -17,7 +17,6 @@ Minecraft HEAVELCAPACK Resourcepack
 ◈ TYPE ◈ First_Release
 ◈ RELEASE DATE ◈ 2021.01.09
 
-＃ UPDATE NOTE #
 [+] HEAVELCAPACK RELEASE
 =======================================
 
@@ -26,6 +25,5 @@ Minecraft HEAVELCAPACK Resourcepack
 ◈ TYPE ◈ Minor_Update
 ◈ RELEASE DATE ◈ 2021.01.12
 
-＃ UPDATE NOTE #
 [+] Change Minecraft default font
 =======================================
