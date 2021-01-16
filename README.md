@@ -12,7 +12,7 @@ Minecraft HEAVELCAPACK Resourcepack
 - Large-scale_Updates : 많은 것들이 추가되고, 많은 것들이 변경된 버전을 의미합니다!
 
 
-=======================================
+
 ◎ HEAVELCAPACK 1.0
 ◈ TYPE ◈ First_Release
 ◈ RELEASE DATE ◈ 2021.01.09
@@ -20,10 +20,10 @@ Minecraft HEAVELCAPACK Resourcepack
 1. HEAVELCAPACK RELEASE
 =======================================
 
-=======================================
 ◎ HEAVELCAPACK 1.5
 ◈ TYPE ◈ Minor_Update
 ◈ RELEASE DATE ◈ 2021.01.12
 
 1. Change Minecraft default font
+
 =======================================
